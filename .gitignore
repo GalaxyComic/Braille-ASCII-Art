@@ -1,0 +1,48 @@
+# Visual Studio / Rider / VS Code instellingen
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build-output
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuspec
+
+# Logs & debugging
+*.log
+*.tlog
+*.dmp
+*.bak
+*.cache
+*.ilk
+*.pdb
+
+# Resharper / Rider bestanden
+*.DotSettings.user
+**/JetBrains.ReSharper.*
+**/JetBrains.Rider.*
+
+# Publish output
+publish/
+app.publish/
+*.deploy
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*.~*
+
